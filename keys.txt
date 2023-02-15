@@ -1,0 +1,6 @@
+flex --- bu kenglik, yoki kenglikka nisbatan
+display:flex; --- child elementlarni kenglik bo'yicha yoyish yoki taqsimlash
+flex:1; --- bu organ width hammasini uziga oladi,, ikki tomonda o'zgarmas busa, o'rtadakiga kenglikni berb yuborish un
+overflow--- toshib ketish,, xullas ,, sig'magan contentni regrofka qilish un
+overflow: hidden ,, ziyoti chiqqanini kursatmaydi
+overflow:scroll ,, sig'maganni scroll qilib kursatmayd,
